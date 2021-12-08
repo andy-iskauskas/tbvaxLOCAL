@@ -1,0 +1,56 @@
+INFO  [2021-12-07 09:27:41] This is AutoEmulate version 5.5.3 (Deja Vu)
+INFO  [2021-12-07 09:27:41] Finished preliminary setup. Beginning first model runs.
+INFO  [2021-12-07 10:57:31] Wave 1 starting. Training emulators.
+INFO  [2021-12-07 11:07:22] Wave 1 emulators trained. Performing diagnostics.
+INFO  [2021-12-07 11:08:23] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-07 11:08:47] Estimated acceptance rate for wave 1 emulators considering wave 0 points is 0.052632
+INFO  [2021-12-07 11:08:47] Proposing new points from emulators at wave 1
+INFO  [2021-12-07 11:34:00] Proposed points have implausibility no greater than 2.993
+INFO  [2021-12-07 11:34:00] Running the model for these new points.
+INFO  [2021-12-07 12:33:45] Wave 2 starting. Training emulators.
+INFO  [2021-12-07 12:44:25] Wave 2 emulators trained. Performing diagnostics.
+INFO  [2021-12-07 12:46:17] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-07 12:46:58] Estimated acceptance rate for wave 2 emulators considering wave 1 points is 0.073684
+INFO  [2021-12-07 12:46:58] Proposing new points from emulators at wave 2
+INFO  [2021-12-07 14:32:05] Proposed points have implausibility no greater than 2.998
+INFO  [2021-12-07 14:32:05] Running the model for these new points.
+INFO  [2021-12-07 15:17:21] Wave 3 starting. Training emulators.
+INFO  [2021-12-07 15:23:33] Wave 3 emulators trained. Performing diagnostics.
+INFO  [2021-12-07 15:24:13] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-07 15:24:57] Estimated acceptance rate for wave 3 emulators considering wave 2 points is 0.010526
+INFO  [2021-12-07 15:24:57] Proposing new points from emulators at wave 3
+INFO  [2021-12-07 17:54:58] Proposed points have implausibility no greater than 3
+INFO  [2021-12-07 17:54:58] Running the model for these new points.
+INFO  [2021-12-07 18:44:05] Wave 4 starting. Training emulators.
+INFO  [2021-12-07 18:49:35] Wave 4 emulators trained. Performing diagnostics.
+INFO  [2021-12-07 18:51:23] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-07 18:52:36] Estimated acceptance rate for wave 4 emulators considering wave 3 points is 0.034211
+INFO  [2021-12-07 18:52:36] Proposing new points from emulators at wave 4
+INFO  [2021-12-07 22:59:51] Proposed points have implausibility no greater than 2.997
+INFO  [2021-12-07 22:59:51] Running the model for these new points.
+INFO  [2021-12-07 23:49:19] Wave 5 starting. Training emulators.
+INFO  [2021-12-07 23:59:28] Wave 5 emulators trained. Performing diagnostics.
+INFO  [2021-12-08 00:00:30] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-08 00:02:26] Estimated acceptance rate for wave 5 emulators considering wave 4 points is 0.23158
+INFO  [2021-12-08 00:02:26] Proposing new points from emulators at wave 5
+INFO  [2021-12-08 04:15:49] Proposed points have implausibility no greater than 2.999
+INFO  [2021-12-08 04:15:49] Running the model for these new points.
+INFO  [2021-12-08 05:05:50] Wave 6 starting. Training emulators.
+INFO  [2021-12-08 05:17:08] Wave 6 emulators trained. Performing diagnostics.
+INFO  [2021-12-08 05:18:28] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-08 05:20:22] Estimated acceptance rate for wave 6 emulators considering wave 5 points is 0.078947
+INFO  [2021-12-08 05:20:22] Proposing new points from emulators at wave 6
+INFO  [2021-12-08 09:33:55] Proposed points have implausibility no greater than 2.998
+INFO  [2021-12-08 09:33:55] Running the model for these new points.
+INFO  [2021-12-08 10:21:23] Wave 7 starting. Training emulators.
+INFO  [2021-12-08 10:32:02] Wave 7 emulators trained. Performing diagnostics.
+INFO  [2021-12-08 10:32:39] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-08 10:34:41] Estimated acceptance rate for wave 7 emulators considering wave 6 points is 0.43684
+INFO  [2021-12-08 10:34:41] Proposing new points from emulators at wave 7
+INFO  [2021-12-08 15:32:00] Proposed points have implausibility no greater than 2.997
+INFO  [2021-12-08 15:32:00] Running the model for these new points.
+INFO  [2021-12-08 16:19:31] Wave 8 starting. Training emulators.
+INFO  [2021-12-08 16:29:08] Wave 8 emulators trained. Performing diagnostics.
+INFO  [2021-12-08 16:29:48] Emulator diagnostics complete. 13 targets will be matched to at this wave.
+INFO  [2021-12-08 16:31:48] Estimated acceptance rate for wave 8 emulators considering wave 7 points is 0.36842
+INFO  [2021-12-08 16:31:48] Proposing new points from emulators at wave 8
